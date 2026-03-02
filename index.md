@@ -2,4 +2,4 @@
 ### Profile
 - **Started**: 02 March 2026
 - **Role**: LIMS Administrator
-- **Hobbies**: Sewing, Reading, and going to the gym
+- **Hobbies**: Sewing, reading, and going to the gym
